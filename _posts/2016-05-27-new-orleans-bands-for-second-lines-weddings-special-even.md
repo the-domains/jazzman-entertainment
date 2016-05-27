@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-27T17:47:14.092Z'
+datePublished: '2016-05-27T17:53:15.507Z'
 isBasedOnUrl: 'http://jazzman.com/'
 keywords:
   - jazzman
@@ -14,7 +14,7 @@ keywords:
   - embree
 related: []
 author: []
-dateModified: '2016-05-27T17:47:13.951Z'
+dateModified: '2016-05-27T17:52:51.348Z'
 title: New Orleans Bands for Second Lines - Weddings - Special Events - Jazzman Entertainment - Home
 app_links: []
 publisher:
